@@ -1,3 +1,5 @@
+# This is the code that I am using to learn about the CODE INTERPRETER tool.
+
 from openai import OpenAI
 client = OpenAI()
   
